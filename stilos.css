@@ -1,0 +1,218 @@
+:root {
+    --branco-principal: rgb(255, 255, 255);
+    --cor-de-fundo: black;
+    --font-principal: 'Handjet';
+    --cor-para-destaque: blue;
+    --botao-efeito-scale: rgb(196, 196, 201);
+}
+
+
+body {
+    background-color: var(--branco-principal);
+    font-family: var(--font-principal);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+.cabeçalho {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.titulo_destaque {
+    color: var(--cor-para-destaque);
+}
+
+.titulo_principal {
+    display: flex;
+    justify-content: center;
+    color: var(--branco-principal);
+    margin: 2em;
+    background-color: var(--cor-de-fundo);
+    border-radius: 5px;
+    padding: 0.2em;
+    text-decoration: underline;
+}
+
+
+.musica:hover {
+    color: red;
+}
+
+.musica:hover {
+    transform: scale(1.05);
+}
+
+
+.logo_principal {
+    height: 6em;
+}
+
+.musica {
+    text-decoration: none;
+    color: var(--branco-principal);
+    font-size: 32px;
+    background-color: var(--cor-de-fundo);
+    border-radius: 5px;
+    height: fit-content;
+    padding: 0.5em;
+}
+
+.botao:hover {
+    transform: scale(1.05);
+}
+
+.botao {
+    border-color: var(--branco-principal);
+    background-color: var(--branco-principal);
+}
+
+.primeiro_setor {
+    background-color: var(--cor-de-fundo);
+    display: flex;
+    justify-content: space-between;
+    color: var(--cor-de-fundo);
+    font-size: 32px;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.papel_de_parede {
+    width: 500px;
+    height: 300px;
+    margin: 2em;
+}
+
+.texto_descritivo {
+    color: var(--branco-principal);
+    margin: 2em;
+}
+
+.solo {
+    text-align: center;
+    background-color: var(--cor-de-fundo);
+    text-decoration: none;
+    color: var(--branco-principal);
+    height: fit-content;
+    border-radius: 5px;
+    padding: 1em;
+}
+
+.solo:hover {
+    transform: scale(1.05);
+    background-color: var(--botao-efeito-scale);
+    color: var(--cor-de-fundo);
+}
+
+.listagem {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.cartao {
+    background-color: rgb(168, 76, 230);
+    width: 200px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    border-radius: 15px;
+    transition: 0.2s ease-in-out;
+}
+
+.cartao:hover {
+    background-color: #96e9e6;
+    transform: scale(1.05);
+}
+
+.informacoes {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+
+.informacoes span {
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 17px;
+}
+
+.ranks {
+    display: flex;
+    gap: 15px;
+    border-radius: 10px;
+}
+
+.imagem_png {
+    border: 2px solid black;
+    width: 90px;
+    height: 90px;
+}
+
+.descricao {
+    max-height: 80px;
+    overflow-y: scroll;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.sem_rank {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.arma_utilizada {
+    margin-right: 2em;
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.rank_s {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.rank_d {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.monarca {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.forma_de_luta {
+    margin-right: 2em;
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.rank_ss{
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}
