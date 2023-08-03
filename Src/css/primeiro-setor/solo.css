@@ -1,0 +1,13 @@
+.solo {
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    color: white;
+    width: fit-content; 
+}
+
+.solo:hover {
+    transform: scale(1.05);
+    background-color: black;
+    color: white;
+}

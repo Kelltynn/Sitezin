@@ -1,0 +1,14 @@
+.musica {
+    text-decoration: none;
+    color: var(--branco-principal);
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 5px;
+    height: fit-content;
+    padding: 0.5em;
+}
+
+.musica:hover {
+    color: red;
+    transform: scale(1.05);
+}
