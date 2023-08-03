@@ -1,7 +1,7 @@
 .informacoes {
     display: flex;
     justify-content: space-between;
-    border: 2px solid #333333;
+    border: 2px solid black;
     border-radius: 10px;
 }
 

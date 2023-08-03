@@ -1,5 +1,5 @@
 .cartao {
-    background-color: rgb(168, 76, 230);
+    background-color: rgb(43, 73, 241);
     width: 200px;
     padding: 15px;
     display: flex;
@@ -11,6 +11,6 @@
 }
 
 .cartao:hover {
-    background-color: #96e9e6;
+    background-color: rgb(16, 49, 238);
     transform: scale(1.05);
 }
