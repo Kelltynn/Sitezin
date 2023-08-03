@@ -1,0 +1,44 @@
+.ranks {
+    display: flex;
+    gap: 15px;
+    border-radius: 10px;
+}
+
+.sem_rank {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.rank_s {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.rank_d {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.rank_ss {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.monarca {
+    border: 2px solid black;
+    list-style-type: none;
+    padding: 8px;
+    border-radius: 10px;
+    height: fit-content;
+}

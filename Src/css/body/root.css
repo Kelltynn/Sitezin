@@ -1,0 +1,7 @@
+:root {
+    --branco-principal: rgb(255, 255, 255);
+    --cor-de-fundo: black;
+    --font-principal: 'Handjet';
+    --cor-para-destaque: blue;
+    --botao-efeito-scale: rgb(196, 196, 201);
+}
