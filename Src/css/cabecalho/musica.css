@@ -6,6 +6,8 @@
     border-radius: 5px;
     height: fit-content;
     padding: 0.5em;
+    margin-right: 2em;
+    margin-top: 0.3em;
 }
 
 .musica:hover {
