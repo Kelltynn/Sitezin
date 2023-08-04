@@ -1,0 +1,7 @@
+.listagem_protagonista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    width: 100%;
+}

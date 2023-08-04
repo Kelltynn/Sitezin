@@ -1,0 +1,12 @@
+.wikipidia_sung {
+    text-decoration: none;
+    color: white;
+    padding: 0.2em;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.wikipidia_sung:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+}

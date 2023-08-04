@@ -1,6 +1,5 @@
-.cartao {
-    background-color: rgb(131, 18, 236);
-    width: 200px;
+.cartao_protagonista {
+    width: 500px;
     padding: 15px;
     display: flex;
     flex-direction: column;

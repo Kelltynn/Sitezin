@@ -1,0 +1,5 @@
+.unico {
+    display: flex;
+    gap: 15px;
+    border-radius: 10px;
+}

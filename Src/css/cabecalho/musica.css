@@ -2,16 +2,15 @@
     text-decoration: none;
     color: var(--branco-principal);
     font-size: 20px;
-    background-color: transparent;
+    background-color: rgb(43, 73, 241);
     border-radius: 5px;
     height: fit-content;
     padding: 0.5em;
-    margin-right: 2em;
-    margin-top: 0.3em;
+    margin-right: 1em;
 }
 
 .musica:hover {
-    color: red;
+    color: white;
     transform: scale(1.05);
-    transition: all 0.2s ease-in-out;
+    text-decoration: underline;
 }

@@ -1,0 +1,13 @@
+.wikipidia{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 0.2em;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.wikipidia:hover{
+    text-decoration: underline;
+    transform: scale(1.1);
+}

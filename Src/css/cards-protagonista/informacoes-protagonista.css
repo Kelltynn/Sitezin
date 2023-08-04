@@ -1,0 +1,11 @@
+.informacoes_protagonista {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.informacoes_protagonista span {
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 25px;
+}

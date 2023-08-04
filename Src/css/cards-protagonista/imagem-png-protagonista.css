@@ -1,0 +1,7 @@
+.imagem_png_protagonista {
+    border: 2px solid white;
+    width: 50em;
+    height: 35em;
+    border-radius: 5px;
+    width: fit-content;
+}

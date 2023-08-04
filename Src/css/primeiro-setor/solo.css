@@ -1,13 +1,13 @@
 .solo {
     display: flex;
-    text-decoration: none;
     justify-content: center;
+    text-decoration: none;
     color: white;
-    width: fit-content; 
+    font-size: 25px;
 }
 
 .solo:hover {
-    transform: scale(1.05);
-    background-color: black;
+    background-color: transparent;
     color: white;
+    text-decoration: underline;
 }

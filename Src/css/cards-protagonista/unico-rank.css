@@ -1,8 +1,7 @@
-.forma_de_luta {
-    margin-right: 2em;
-    border: 2px solid black;
+.unico_rank {
     list-style-type: none;
     padding: 8px;
     border-radius: 10px;
     height: fit-content;
+    font-size: 25px;
 }

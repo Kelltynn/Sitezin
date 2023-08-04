@@ -1,0 +1,7 @@
+.botao_seja_bem_vindo{
+    border-radius: 5px;
+}
+
+.botao_seja_bem_vindo:hover{
+    transform: scale(1.05);
+}
