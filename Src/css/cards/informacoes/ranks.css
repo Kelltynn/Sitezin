@@ -9,6 +9,7 @@
     list-style-type: none;
     padding: 8px;
     border-radius: 10px;
+    width: 70px;
 }
 
 .rank_s {
@@ -17,6 +18,7 @@
     padding: 8px;
     border-radius: 10px;
     height: fit-content;
+    width: 50px;
 }
 
 .rank_d {
@@ -25,6 +27,7 @@
     padding: 8px;
     border-radius: 10px;
     height: fit-content;
+    width: 50px;
 }
 
 .rank_ss {
@@ -33,6 +36,7 @@
     padding: 8px;
     border-radius: 10px;
     height: fit-content;
+    width: 60px;
 }
 
 .monarca {
