@@ -1,48 +1,15 @@
-.ranks {
+.ranks_cards {
     display: flex;
+    justify-content: space-between;
     gap: 15px;
     border-radius: 10px;
 }
 
-.sem_rank {
+.ranks {
     border: 2px solid black;
     list-style-type: none;
     padding: 8px;
     border-radius: 10px;
-    width: 70px;
-}
-
-.rank_s {
-    border: 2px solid black;
-    list-style-type: none;
-    padding: 8px;
-    border-radius: 10px;
-    height: fit-content;
-    width: 50px;
-}
-
-.rank_d {
-    border: 2px solid black;
-    list-style-type: none;
-    padding: 8px;
-    border-radius: 10px;
-    height: fit-content;
-    width: 50px;
-}
-
-.rank_ss {
-    border: 2px solid black;
-    list-style-type: none;
-    padding: 8px;
-    border-radius: 10px;
-    height: fit-content;
-    width: 60px;
-}
-
-.monarca {
-    border: 2px solid black;
-    list-style-type: none;
-    padding: 8px;
-    border-radius: 10px;
-    height: fit-content;
+    width: 55px;
+    font-size: 1.02rem;
 }

@@ -1,6 +1,7 @@
 .texto_descritivo {
     color: var(--branco-principal);
-    font-size: 32px;
+    font-size: 1.02rem;
     font-weight: 700;
     text-align: center;
+    margin: 0.2rem;
 }

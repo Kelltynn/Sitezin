@@ -1,6 +1,6 @@
 .cabeçalho {
     display: flex;
     justify-content: space-between;
-    background-color: transparent;
+    background-color: var(--cor-de-fundo);
     border-radius: 5px;
 }

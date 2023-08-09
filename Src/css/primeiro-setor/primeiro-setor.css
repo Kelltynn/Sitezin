@@ -1,6 +1,7 @@
 .primeiro_setor {
     background-color: var(--cor-de-fundo);
     display: flex;
+    flex-direction: column;
     width: 100%;
     border-radius: 10px;
 }

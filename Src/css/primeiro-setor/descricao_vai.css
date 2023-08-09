@@ -1,6 +1,8 @@
-.descricao_vai{
-    margin: 1em;
-    padding-left: 0;
+.descricao_vai {
+    padding: 0;
+    max-height: 80px;
+    overflow-y: scroll;
+    font-size: 1.02rem;
+    border-bottom: 2px solid black;
+    text-align: center;
 }
-
-

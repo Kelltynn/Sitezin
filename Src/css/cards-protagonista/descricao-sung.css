@@ -1,7 +1,7 @@
 .descricao_sung {
     max-height: 80px;
     overflow-y: scroll;
-    font-size: 25px;
+    font-size: 1.09rem;
     padding-right: 10px;
     border-bottom: 2px solid black;
     text-align: center;

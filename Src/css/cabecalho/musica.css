@@ -1,7 +1,7 @@
 .musica {
     text-decoration: none;
     color: var(--branco-principal);
-    font-size: 20px;
+    font-size: 1.04rem;
     background-color: rgb(131, 18, 236);
     border-radius: 5px;
     height: fit-content;
@@ -10,7 +10,7 @@
 }
 
 .musica:hover {
-    color: white;
+    color: var(--branco-principal);
     transform: scale(1.05);
     text-decoration: underline;
 }
