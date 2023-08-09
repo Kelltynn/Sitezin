@@ -1,5 +1,5 @@
 .cards_protagonista {
-    background-color: black;
+    background-color: var(--cor-de-fundo);
     color: white;
     border-radius: 5px;
     width: 100%;

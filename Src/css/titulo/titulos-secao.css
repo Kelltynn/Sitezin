@@ -1,5 +1,5 @@
 .titulos_secao{
-    color: white;
+    color: var(--branco-principal);
     text-align: center;
     background-color: black;
     padding: 1em;

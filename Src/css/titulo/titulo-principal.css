@@ -1,5 +1,5 @@
 .titulo_principal {
-    color: white;
+    color: var(--branco-principal);
     position: absolute; 
     text-align: center;
     top: 20%;;

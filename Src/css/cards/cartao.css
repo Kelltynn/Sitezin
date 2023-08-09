@@ -1,5 +1,5 @@
 .cartao {
-    background-color: rgb(131, 18, 236);
+    background-color: var(--cor-de-fundo-cartao);
     width: 200px;
     padding: 15px;
     display: flex;

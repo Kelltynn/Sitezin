@@ -2,13 +2,13 @@
     display: flex;
     justify-content: center;
     text-decoration: none;
-    color: white;
+    color: var(--branco-principal);
     font-size: 1.09rem;
     padding: 0.3rem;
 }
 
 .solo:hover {
     background-color: transparent;
-    color: white;
+    color: var(--branco-principal);
     text-decoration: underline;
 }

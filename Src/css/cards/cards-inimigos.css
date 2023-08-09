@@ -1,5 +1,5 @@
 .cards_inimigos{
-    background-color: black;
+    background-color: var(--cor-de-fundo);
     padding: 1em;
     border-radius: 5px;
 }

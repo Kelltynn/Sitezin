@@ -1,6 +1,6 @@
 .wikipidia{
     text-decoration: none;
-    background-color: black;
+    background-color: var(--cor-de-fundo);
     color: white;
     padding: 0.4em;
     border-radius: 5px;
